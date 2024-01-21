@@ -1,0 +1,13 @@
+.btn {
+    background-color: #474787;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #2C2C54;
+    transition: 800ms;
+}
+
+.form-control {
+
+}
